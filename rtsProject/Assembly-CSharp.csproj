@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\Fighter.cs" />
      <Compile Include="Assets\Scripts\Mage.cs" />
+     <Compile Include="Assets\Scripts\Navigator.cs" />
      <Compile Include="Assets\Scripts\Tile.cs" />
      <Compile Include="Assets\Scripts\UIController.cs" />
      <Compile Include="Assets\Scripts\Unit.cs" />

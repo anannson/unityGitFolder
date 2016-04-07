@@ -81,7 +81,7 @@ public class Unit : MonoBehaviour
     public float NLerp(float from, float to, float t)
     {
         //t = 4 * Mathf.Pow(t - 0.5f, 3f) + 0.5f;
-        t = 0.36f * Mathf.Atan(10f * (t - 0.5f)) + 0.5f;
+        //t = 0.36f * Mathf.Atan(10f * (t - 0.5f)) + 0.5f;
         return from + (to - from) * t;
     }
     
